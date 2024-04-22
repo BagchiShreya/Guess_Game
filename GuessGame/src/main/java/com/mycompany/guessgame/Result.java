@@ -4,10 +4,6 @@
  */
 package com.mycompany.guessgame;
 
-/**
- *
- * @author Shashi
- */
 public class Result extends javax.swing.JFrame {
 
     /**
