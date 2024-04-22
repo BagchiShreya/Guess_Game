@@ -6,10 +6,6 @@ package com.mycompany.guessgame;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Shashi
- */
 public class Rules extends javax.swing.JFrame {
 
     /**
